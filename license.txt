@@ -1,0 +1,11 @@
+Model Information:
+* title:	Clínica Innovare - BIM Federado
+* source:	https://sketchfab.com/3d-models/clinica-innovare-bim-federado-c5b1d3f663784fa69848e3a5f1710bfd
+* author:	colabengenharia (https://sketchfab.com/colabengenharia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Clínica Innovare - BIM Federado" (https://sketchfab.com/3d-models/clinica-innovare-bim-federado-c5b1d3f663784fa69848e3a5f1710bfd) by colabengenharia (https://sketchfab.com/colabengenharia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
